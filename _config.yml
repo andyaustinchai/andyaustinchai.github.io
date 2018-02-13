@@ -1,9 +1,9 @@
 # main text of home
 name: David Chang
-bio: PM @ Hack4Impact, Founder @ Haven, Browser @ Internships
+bio: PM @ Hack4Impact, Founder @ Haven
 
 # twitter summary info
-description: A blog about technology and stuff related
+# description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -13,7 +13,7 @@ picture: assets/images/LinkedIn Pic.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
+resume-external: false
 resume-url: assets/Resume.pdf
 
 url: https://davidachang.github.io
