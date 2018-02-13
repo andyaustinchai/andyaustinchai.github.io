@@ -14,9 +14,9 @@ picture: assets/images/LinkedIn Pic.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/Resume.pdf
 
-url: https://koppl.in/indigo
+url: https://davidachang.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -39,10 +39,10 @@ twitter: bigdchang
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: davidalexchang
 # youtube: myyoutube
 # spotify: myspotify
-github: davidalexchang
+github: davidachang
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -50,7 +50,7 @@ github: davidalexchang
 medium: bigdchang
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-#email: myemail@gmail.com
+email: dachang3@illinois.edu
 
 authors:
     johndoe:
@@ -76,11 +76,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
