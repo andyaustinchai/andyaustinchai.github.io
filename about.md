@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hello! I'm a Junior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I think about startup ideas, write about my experiences as a student, and handle the business side of things. </p>
+<p>Hello! I'm a Junior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I handle the business side of things, write about my experiences as a student, and <a href="https://www.instagram.com/crocconnoisseur/" target="_blank">wear crocs</a>. </p>
 
 
 <!-- <h2>Skills</h2> -->
