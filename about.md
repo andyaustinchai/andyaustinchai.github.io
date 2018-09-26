@@ -2,9 +2,12 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<!--![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
-<p>Hello! I'm a Junior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I handle the business side of things, write about my experiences as a student, and <a href="https://www.instagram.com/crocconnoisseur/" target="_blank">wear crocs</a>. </p>
+<a class="link" href="{{ site.url }}"> <img class="selfie" alt="Profile Image" src="{{ site.url }}/{{ site.picture }}"> </a>
+
+
+<p>Hello! I'm a Senior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I handle the business side of things, write about my <a href = "https://medium.com/@bigdchang" target="_blank">experiences as a student</a>, and <a href="https://www.instagram.com/crocconnoisseur/" target="_blank">wear crocs</a>. </p>
 
 
 <!-- <h2>Skills</h2> -->
