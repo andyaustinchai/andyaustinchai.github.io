@@ -7,7 +7,7 @@ layout: page
 <a class="link" href="{{ site.url }}"> <img class="selfie" alt="Profile Image" src="{{ site.url }}/{{ site.picture }}"> </a>
 
 
-<p>Hi! My name's Andy and I'm a Senior at the University of Illinois at Urbana-Champaign studying Economics and minoring in Computer Science. I have a deep interest in data, specifically turning data into real and useful metrics/visualizations to help make informed decisions.</p>
+<p>Hi! My name's Andy and I'm a Senior at the University of Illinois at Urbana-Champaign studying Economics and minoring in Computer Science. I have a deep interest in data, specifically turning it into real and useful metrics/visualizations to help make informed decisions.</p>
 
 
 <center><h2>Skills</h2></center>
