@@ -1,6 +1,6 @@
 # main text of home
 name: Andy A. Chai
-bio: PM Intern @ Datadog <br> Building Sail <br> Ex Jubilee, Hack4Impact, & Chegg
+bio: Data Analyst Intern @ Ameren <br> Salesforce Business Analyst @ Catalyst Consutling Grp. <br>
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -14,15 +14,15 @@ picture: assets/images/andy2.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/Resume.pdf
+resume-url: assets/Andy Chai's Resume (October 2019).pdf
 
-url: https://davidachang.github.io
+url: https://andyaustinchai.github.io/andychai-resume/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-114111919-1'
+analytics-google: 'UA-151091525-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -35,22 +35,22 @@ disqus:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: bigdchang
+twitter: andychai_
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: davidalexchang
+linkedin: andyaustinchai
 # youtube: myyoutube
 # spotify: myspotify
-github: davidachang
+github: andyaustinchai
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: bigdchang
+# medium: bigdchang
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: dachang3@illinois.edu
+email: andyaustinchai@gmail.com
 
 authors:
     johndoe:
