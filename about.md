@@ -10,7 +10,7 @@ layout: page
 <p>Hello! I'm a Senior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I handle the <a href = "https://sailapp.carrd.co/" target = "_blank">business side of things</a>, write about my <a href = "https://medium.com/@bigdchang" target="_blank">experiences as a student</a>, and <a href="https://www.instagram.com/crocconnoisseur/" target="_blank">wear crocs</a>. </p>
 
 
-<h2>Skills</h2>
+<center><h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>SQL, NoSQL, MongoDB, Neo4j, Cypher</li>
@@ -20,6 +20,7 @@ layout: page
 	<li>Reports & Dashboards (Power BI/Salesforce/Tableau)</li>
 	<li>Agile, Scrum, Kanban</li>
 </ul>
+</center>
 
 <!--<h2>Projects</h2>
 
