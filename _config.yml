@@ -14,7 +14,7 @@ picture: assets/images/andy1.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: https://github.com/andyaustinchai/andychai-resume/blob/master/assets/Andy%20Chai's%20Resume%20(October%202019).pdf
+resume-url: assets/Resume.pdf
 
 url: https://andyaustinchai.github.io/andychai-resume/
 # your url: http://USERNAME.github.io
