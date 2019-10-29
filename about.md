@@ -10,9 +10,9 @@ layout: page
 <p>Hello! I'm a Senior at the University of Illinois at Urbana-Champaign studying Finance and minoring in Computer Science. I handle the <a href = "https://sailapp.carrd.co/" target = "_blank">business side of things</a>, write about my <a href = "https://medium.com/@bigdchang" target="_blank">experiences as a student</a>, and <a href="https://www.instagram.com/crocconnoisseur/" target="_blank">wear crocs</a>. </p>
 
 
-<!-- <h2>Skills</h2> -->
+<h2>Skills</h2>
 
-<!-- <ul class="skill-list">
+<ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
@@ -31,7 +31,7 @@ layout: page
 
 <h2>Projects</h2>
 
-<ul>
+<!--!<ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
